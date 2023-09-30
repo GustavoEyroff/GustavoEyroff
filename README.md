@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack
 
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **GustavoEyroff/GustavoEyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
