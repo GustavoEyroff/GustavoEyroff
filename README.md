@@ -5,7 +5,7 @@
 
 # 📖 Certifications
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Proway](style=for-the-badge&logo=pluralsight&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 
 <!--
 **GustavoEyroff/GustavoEyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
