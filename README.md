@@ -1,4 +1,4 @@
-### Hi there 👋
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 <!--
 **GustavoEyroff/GustavoEyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
