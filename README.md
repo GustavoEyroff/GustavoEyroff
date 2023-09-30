@@ -8,4 +8,4 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) 
 
 
-https://github-readme-stats.vercel.app/api?username=GustavoEyroff&hide=contribs.prs
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoEyroff)](https://github.com/anuraghazra/github-readme-stats)
